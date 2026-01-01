@@ -1,0 +1,3 @@
+[flake8]
+select = D,E,F,W
+extend-ignore =
